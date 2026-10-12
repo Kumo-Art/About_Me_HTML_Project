@@ -1,3 +1,30 @@
 body {
-    color:aqua
+    background-color:aqua;
+}
+
+
+.photos-img {
+    max-width: 30%;
+    height: 30%;
+}
+
+
+.games-img {
+    max-width: 25%;
+    height: 25%;
+}
+
+.sketches-img {
+    max-width: 30%;
+    height: 30%;
+}
+
+.finished-img {
+    max-width: 30%;
+    height: 30%;
+}
+
+.anime-img {
+    max-width: 30%;
+    height: 30%;
 }
